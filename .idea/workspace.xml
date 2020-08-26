@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47718454-a793-4d7d-b237-e5bdaad2df25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
@@ -48,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598474775843</updated>
-      <workItem from="1598474777156" duration="8553000" />
+      <workItem from="1598474777156" duration="8947000" />
     </task>
     <task id="LOCAL-00001" summary="Added Axios and made network calls">
       <created>1598483708785</created>
@@ -57,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598483708785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added the form">
+      <created>1598484529838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598484529838</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,16 +71,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Axios and made network calls" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Axios and made network calls" />
+    <MESSAGE value="Added the form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the form" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598475971216">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
     <state x="360" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.23.1288.923/0.23.1792.1026@0.23.1792.1026" timestamp="1598475971216" />
-    <state x="464" y="128" key="CommitChangelistDialog2" timestamp="1598483708617">
+    <state x="464" y="128" key="CommitChangelistDialog2" timestamp="1598484529724">
       <screen x="0" y="23" width="1792" height="1026" />
     </state>
-    <state x="464" y="128" key="CommitChangelistDialog2/1792.23.1288.923/0.23.1792.1026@0.23.1792.1026" timestamp="1598483708617" />
+    <state x="464" y="128" key="CommitChangelistDialog2/1792.23.1288.923/0.23.1792.1026@0.23.1792.1026" timestamp="1598484529723" />
   </component>
 </project>
